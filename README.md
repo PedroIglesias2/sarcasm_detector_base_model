@@ -1,7 +1,39 @@
-california-housing-prediction
+Sarcasm_detector_base_model
 ==============================
 
-A short description of the project.
+
+#### -- Project Status: Active
+
+## Project Intro/Objective
+The purpose of this project is to apply and train Machine Learning Development and Deployment
+best practices as well as MLOps principles on a simple application. We use News Headlines dataset for Sarcasm Detection,
+collected from two news websites to build a prediction model of the median house value.
+
+
+
+### Methods Used
+* Machine Learning
+* NLP
+* Predictive Modeling
+
+### Technologies
+* Python
+* Pandas, jupyter, Numpy, nlkt
+* scikit-learn
+
+## Project Description
+
+## Needs of this project
+
+## Getting Started
+
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Data is being kept [here](./data/processed/) within this repo.
+3. Data processing/transformation scripts are being kept [here](./sarcasm_prediction)
+
+
+## Featured Notebooks
+* [Main Modelling Notebook](./notebooks/Sarcasm_Detector_Helper.ipynb)
 
 Project Organization
 ------------
