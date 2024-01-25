@@ -28,12 +28,12 @@ collected from two news websites to build a prediction model of the median house
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Data is being kept [here](./data/processed/) within this repo.
-3. Data processing/transformation scripts are being kept [here](./sarcasm_prediction)
+2. Data is being kept [here](data/processed/) within this repo.
+3. Data processing/transformation scripts are being kept [here](src)
 
 
 ## Featured Notebooks
-* [Main Modelling Notebook](./notebooks/Sarcasm_Detector_Helper.ipynb)
+* [Main Modelling Notebook](notebooks/Sarcasm_Detector_Helper.ipynb)
 
 Project Organization
 ------------
